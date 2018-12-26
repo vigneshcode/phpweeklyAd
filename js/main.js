@@ -7,6 +7,6 @@
 function slideshow(){
     
     
-    
+    alert("hi");
     
 }
